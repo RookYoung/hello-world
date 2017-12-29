@@ -1,6 +1,6 @@
 # hello-world
 rookie tutorial
 
-wassup
+wassup!
 
 mambaout
